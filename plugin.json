@@ -1,0 +1,25 @@
+{
+  "id": "neodex.pattern",
+  "name": "Pattern",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Écris une expression régulière et vois-la trouver ses correspondances en direct dans ton texte : chaque morceau du motif expliqué en français, le détail des groupes, le remplacement avec $1 et $<nom>, les six drapeaux, un aide-mémoire cliquable, des exemples prêts (e-mail, date, téléphone, IP…) et tes motifs gardés. Un motif qui s'emballe est arrêté au bout d'une seconde au lieu de figer NeoDex. Textes plus grands (correspondances, explication, aide-mémoire), colonnes selon la taille de l'écran, et les onglets de droite ne débordent plus.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "pattern",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Outils",
+  "mobile": true,
+  "compatibility": [
+    "android"
+  ],
+  "syncMode": "fusion",
+  "syncInfo": "Le motif en cours et tes motifs gardés.",
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage"
+  ]
+}
