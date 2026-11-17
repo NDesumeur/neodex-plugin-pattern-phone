@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.pattern",
+  "repo": "NDesumeur/neodex-plugin-pattern-phone",
+  "version": "1.0.0",
+  "sha256": "d11273a9bb313ec49d5799f2e421f7b45d4f09d4a21101206b0716fc6d630d13",
+  "approvedAt": "2026-11-17T18:40:03.453Z",
+  "neobase": ">=4.0.0",
+  "signature": "CAocCIWjXgO+7a3i4RKS/2F+BnpOJuCEcPsE+Pacn4wI0b7Wzb5eZgzDlDNxPegxVEayV8AazViSAAwYkQIFCQ=="
+}
